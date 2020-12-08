@@ -13,5 +13,6 @@ In the database folder, copy the config.example.json and remove the example, rem
 
 # Starting the server
 
+Run `yarn start` to start the aplication. \
 If you are starting the server without a domain, unncoment the "HTTP server config" section. \
 If you have a domain, unncoment the "HTTPS server config" section (Don't forget to add the KEY and CERT path in the .env file)
